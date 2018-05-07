@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686520189650",
+    "firebase_url": "https://fir-emaillogin-74f4a.firebaseio.com",
+    "project_id": "fir-emaillogin-74f4a",
+    "storage_bucket": "fir-emaillogin-74f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686520189650:android:35bf1ce7c11a3076",
+        "android_client_info": {
+          "package_name": "com.rapidapps.emaillogin.firebaseemaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686520189650-lcm4nmvpb1uu63tcfc34cfavot0ejf00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapidapps.emaillogin.firebaseemaillogin",
+            "certificate_hash": "e25e3b1a0dbcae533b6612fef76d3d88d035ff47"
+          }
+        },
+        {
+          "client_id": "686520189650-f9bv4sg0apmju42ujt601493gophake5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRQtADc8jNuoiZDRqyCctze6m6BQ0WPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686520189650-f9bv4sg0apmju42ujt601493gophake5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
